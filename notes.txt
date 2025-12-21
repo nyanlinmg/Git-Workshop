@@ -1,0 +1,7 @@
+git status (modified check)
+
+git add . (staged area)
+
+git commit -m "...."
+
+git push origin main
